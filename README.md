@@ -35,11 +35,3 @@
 <h4>💬  Sometimes I like to write things here...</h4>
   <a href="https://kasragarshasbi.ir"><img src="https://img.shields.io/badge/-My%20Blog-17bf63?&style=for-the-badge&logo=blog&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;
 </p>
-
-
-<hr>
-
-<br>
-<p align="right">
-  <a href="https://soundcloud.com/user-156253948"><img src="https://img.shields.io/badge/soundcloud-%23e34f26.svg?&style=for-the-badge&logo=soundcloud&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-</p>
