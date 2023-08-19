@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋, I'm Kasra  👩‍💻 </h1>
+<h1 align='center'> Hi there 👋, I'm Kasra  👨🏻‍💻 </h1>
 
 <p align='center'>
   I live in Tehran, Iran and im <b>Freelancer</b> 
