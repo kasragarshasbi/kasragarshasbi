@@ -1,5 +1,5 @@
 # 💫 About Me:
-kasra garshasbi frontend developer and currently working on react libraray. my skills are html css javascript 
+hey,this is kasra garshasbi,im frontend developer from Iran-Tehran. we can get in touch by my linkdedin and email below 
 
 
 ## 🌐 Socials:
